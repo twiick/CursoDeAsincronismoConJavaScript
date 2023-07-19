@@ -1,0 +1,22 @@
+{
+  "name": "cursodeasincronismoconjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twiickcom/CursoDeAsincronismoConJavaScript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Brahyam Luna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twiickcom/CursoDeAsincronismoConJavaScript/issues"
+  },
+  "homepage": "https://github.com/twiickcom/CursoDeAsincronismoConJavaScript#readme"
+}
